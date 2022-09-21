@@ -1,0 +1,15 @@
+.vert {
+    color: green !important;
+}
+
+li[name='ha'] {
+    color: orange;
+}
+
+li {
+    color: blue;
+}
+
+#rose {
+    color: pink;
+}
